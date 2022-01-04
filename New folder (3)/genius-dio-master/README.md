@@ -1,4 +1,4 @@
-# Desafio genius JavaScrip.
+# Desafio genius JavaScript.
 
 Esse é o repositório da aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
 
